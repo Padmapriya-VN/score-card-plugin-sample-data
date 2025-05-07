@@ -1,7 +1,7 @@
 {
   "entityRef": {
     "kind": "api",
-    "name": "hello-world"
+    "name": "entity-feedback-demo"
   },
   "generatedDateTimeUtc": "2021-07-22 10:00",
   "scorePercent": 57,
